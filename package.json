@@ -20,6 +20,8 @@
   },
   "dependencies": {
     "apollo-server-express": "^2.3.1",
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.2",
     "dotenv": "^6.2.0",
     "express": "^4.16.4",
     "graphql": "^14.1.1",
